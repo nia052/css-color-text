@@ -2,3 +2,41 @@
   box-sizing: border-box; }
 
 /*insert custom css below*/
+
+.box{
+width:450px;
+padding:15px;
+border:5px solid gray;
+margin: 25px
+}
+
+body {
+  padding: 0 1rem;
+  margin: 0;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, times, serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #606c71;
+  text-align: left;
+background-color: #d3d3d3
+}
+
+a {
+  color: #4d4d33;
+  text-decoration: none; }
+  a:hover {
+color: #e0e0d1;
+    text-decoration: underline; }
+
+.read-more {
+  color: #000099;
+  text-decoration: underline; }
+  .read-more:hover {
+color: #4d4dff;
+    text-decoration: none; }
+
+footer {
+    font-size: 13px;
+    color: #000000;
+}
+
